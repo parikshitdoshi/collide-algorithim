@@ -1,2 +1,2 @@
-# collide-algorithim
-created code for collision on VScode
+# p5.play-boilerplate
+Boiler plate for p5.play
